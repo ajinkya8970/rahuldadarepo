@@ -45,7 +45,7 @@ export default function InvolvedPage() {
               <div className="volunteer-perk">
                 <span className="volunteer-perk__icon">📅</span>
                 <div>
-                  <strong>Weekend drives</strong>
+                  <strong>Weekend drives..</strong>
                   <p>Most activities happen on weekends — no leave needed.</p>
                 </div>
               </div>
